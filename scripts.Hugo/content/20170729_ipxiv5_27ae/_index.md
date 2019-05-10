@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20170729_ipxiv5_27ae.mp4" >}}
 
      https://www.youtube.com/watch?v=iPXiv5_27aE 
-     关于美国医疗保险问题（国语） 
      医疗保险真是保险吗? 
+     关于美国医疗保险问题（国语） 

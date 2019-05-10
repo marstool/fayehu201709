@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170906_pivpjoaaj64.mp4" >}}
 
-     https://www.youtube.com/watch?v=pIvPjOAaj64 
      最新德州灾情9 6 017（粤语） 
      最新德州灾情9 6 017 
+     https://www.youtube.com/watch?v=pIvPjOAaj64 

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170801_ootriu2n73c.mp4" >}}
 
-     https://www.youtube.com/watch?v=oOtriU2n73c 
      
+     https://www.youtube.com/watch?v=oOtriU2n73c 
      对美国税收及医疗保险问题的补充说明（粤语） 
